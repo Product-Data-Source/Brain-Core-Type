@@ -11,8 +11,8 @@
 
   // ── CONFIG — edit this after deploying the Supabase Edge Function ──
   const CONFIG = {
-    ENDPOINT: 'https://YOUR-PROJECT-REF.supabase.co/functions/v1/ai-chat',
-    SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY', // sent as Bearer token; the function itself holds the real Anthropic key
+    ENDPOINT: 'https://zwhomfxsalcchmevulot.supabase.co/functions/v1/hyper-function',
+    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp3aG9tZnhzYWxjY2htZXZ1bG90Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk0NTQyMjMsImV4cCI6MjA5NTAzMDIyM30.eFGjW43o4GRK_DNuDEsPNKASgxMkRUichQLqEInCh1k', // sent as Bearer token; the function itself holds the real Anthropic key
     GREETING: 'ถามอะไรก็ได้เกี่ยวกับ Brain & Core — Core ของคุณ, ด่านต่างๆ, หรือระบบฝึกประจำวัน',
     MAX_HISTORY_TURNS: 12 // trim conversation sent to the backend to keep requests small
   };
