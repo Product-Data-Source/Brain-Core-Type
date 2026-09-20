@@ -14,7 +14,7 @@
   'use strict';
 
   const CONFIG = {
-    ENDPOINT: 'https://YOUR-PROJECT-REF.supabase.co/functions/v1/Ai-chat',
+    ENDPOINT: 'https://zwhomfxsalcchmevulot.supabase.co/functions/v1/Ai-chat',
     SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY',
     GREETING: 'ถามอะไรก็ได้เกี่ยวกับ Brain & Core — Core ของคุณ, ด่านต่างๆ, หรือระบบฝึกประจำวัน',
     MAX_HISTORY_TURNS: 12
