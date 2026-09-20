@@ -15,7 +15,7 @@
 
   const CONFIG = {
     ENDPOINT: 'https://zwhomfxsalcchmevulot.supabase.co/functions/v1/Ai-chat',
-    SUPABASE_ANON_KEY: 'YOUR_SUPABASE_ANON_KEY',
+    SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inp3aG9tZnhzYWxjY2htZXZ1bG90Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk0NTQyMjMsImV4cCI6MjA5NTAzMDIyM30.eFGjW43o4GRK_DNuDEsPNKASgxMkRUichQLqEInCh1k',
     GREETING: 'ถามอะไรก็ได้เกี่ยวกับ Brain & Core — Core ของคุณ, ด่านต่างๆ, หรือระบบฝึกประจำวัน',
     MAX_HISTORY_TURNS: 12
   };
